@@ -3,12 +3,12 @@ This is a homebrew 3d-printed case for the SD-Cart JR with clearance for the soc
 
 This print was designed to be toolless and not require any screws. However, as a trade-off that means the latches are pretty brittle and easily snapped. Don't expect it to survive more than one or two re-openings before the latches break. Do expect to break it and need to re-print another one if you need to re-open it for some reason.
 
-Project Contains
-1.) FreeCAD project files (for editing/modification)
+Project Contains\
+1.) FreeCAD project files (for editing/modification)\
 2.) Exported STL files
 
-Settings as printed
-Prusa i3 Mk3
+Settings as printed\
+Prusa i3 Mk3\
 0.2mm Quality, PLA, 15% infill
 
 
