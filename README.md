@@ -10,3 +10,8 @@ Note 2: The design does not have a hole for the LED (whoops) but you can somewha
 Note 3: The design does not have the holes for un-latching (whoops). It is possible to re-open it by pulling it apart, but as noted above the latches are brittle.
 
 Note 4: The design has a hole in the top to have clearance for the boot ROM (which when socketed sticks out of the top a bit), since there is very little clearance between the SD-Cart JR and the PCjr cartridge slot already.
+
+![Image 1](img/img1.jpg)
+![Image 2](img/img2.jpg)
+![Image 3](img/img3.jpg)
+![Image 4](img/img4.jpg)
